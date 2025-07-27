@@ -28,6 +28,6 @@ python CodeAlpha_Automation_ScrapeTitle.py
 ---
 
 ## 💼 Submitted by:
-**Name:** [Your Name]  
+**Name:** [PRASHANT ANAND]  
 **Internship Domain:** Python Programming  
 **Organization:** CodeAlpha  
